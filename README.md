@@ -10,4 +10,6 @@ To run this app locally run the following command
   expo start
 ```
 
+### [Link to server-side repository](https://github.com/Giftedcooperation/generalsapi).
+
 
